@@ -2,7 +2,6 @@ import customtkinter
 import customtkinter as ctk
 from tkinter import*
 from tkinter import messagebox
-from PIL import Image, ImageTk
 
 class App(ctk.CTk):
     def __init__(self):
