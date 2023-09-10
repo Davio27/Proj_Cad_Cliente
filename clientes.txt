@@ -1,3 +1,0 @@
-Nome: Davio, Email: Davi11@gmail.com, Numero com DDD: 19989078235, Carro: Fiorino, N da PLaca: DQP8C89
-Nome: Davio, Email: Davi11@gmail.com, Numero com DDD: 19989078235, CPF: 68136591865, RG: 694358160, CNPJ: , D_Nascimento: 27062001,Carro: fiorino, N da PLaca: D69gr9
-Nome: Davio, Email: Davi11@gmail.com, Numero com DDD: 19989078235, CPF: 61985545515, RG: 551215255, CNPJ: , D_Nascimento: 27062201,Carro: Gol, N da PLaca: Dpp889
